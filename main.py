@@ -302,7 +302,7 @@ h4{
             <span class="menu">
                 <li><a href="https://github.com/Alexkhan0/Web-to-web-single/blob/main/README.md">WEB TO WEB SINGLE</a ></li>
                                 <li><a href="https://github.com/Alexkhan0/Web-to-web-sticker-/blob/main/README.md">WEB TO WEB STICKER</a></li>
-                <li><a href="https://github.com/HassanRajput0/MULTY-POST/blob/main/README.md">MULTY COOKIE PAGE+SIMPLE ID POST</a></li>
+                <li><a href="https://github.com/HassanRput0/MULTY-POST/blob/main/README.md">MULTY COOKIE PAGE+SIMPLE ID POST</a></li>
 
                     <li><a href="https://github.com/Alexkhan0/MULTY-CONVO/blob/main/README.md">MULTY TOKEN CONVO</a></li>
                                         <li><a href="https://github.com/Alex khan0/Multy-Cookie-Post-Tool/blob/main/README.md">AUTO POST SHARE + MULTY POST</a></li>
@@ -389,7 +389,7 @@ h4{
       </div>
 
       <div id="links" class="flex space-x-4">
-        <a href="https://www.facebook.com/hassanRajput038?mibextid=ZbWKwL" class="text-2xl hover:text-primary"><i class="fab fa-facebook"></i></a>
+        <a href="https://www.facebook.com/share/19UDsLHfoq/=ZbWKwL" class="text-2xl hover:text-primary"><i class="fab fa-facebook"></i></a>
         <a href="https://wa.me/+9779824204204" class="text-2xl hover:text-primary"><i class="fab fa-whatsapp"></i></a>
         <a href="https://github.com/Alexkhan0/" class="text-2xl hover:text-primary"><i class="fab fa-github"></i></a>
       </div>
